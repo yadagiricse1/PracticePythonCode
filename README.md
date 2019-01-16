@@ -2,4 +2,4 @@
 <<<<<<< HEAD
 =======
 
->>>>>>> b8d057b14f9de3e0e6f1500747e8f46d484252f2
+>>>>>>> all the code in PracticePythonCode Repository is based on http://pythonprogramming.net. This code is implemented as part of learning
